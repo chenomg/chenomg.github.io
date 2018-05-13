@@ -100,7 +100,7 @@ analytics:
 # Site Author
 author:
   name             : "Jase Chen"
-  avatar           :  path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : /assets/images/bio-photo.jpg
   bio              : "I am an amazing person."
   location         : "Shanghai"
   email            : "xxmm@live.cn"
@@ -112,7 +112,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-      github       : "https://github.com/chenomg"
+  github           : "chenomg"
   gitlab           :
   google_plus      :
   keybase          :
