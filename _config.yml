@@ -101,7 +101,7 @@ analytics:
 author:
   name             : "Jase Chen"
   avatar           : /assets/images/bio-photo.jpg
-  bio              : "I am an amazing person."
+  bio              : "I will be an amazing person."
   location         : "Shanghai"
   email            : "xxmm@live.cn"
   uri              :
@@ -159,7 +159,7 @@ exclude:
   - Rakefile
   - README
   - tmp
-  - /docs # ignore Minimal Mistakes /docs
+  #- /docs # ignore Minimal Mistakes /docs
   - /test # ignore Minimal Mistakes /test
 keep_files:
   - .git
