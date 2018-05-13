@@ -322,3 +322,8 @@ figure.highlight {
     border-bottom: 0;
   }
 }
+//對過長的程式區段加入高度限制及捲軸
+.highlight {
+    max-height: 500px;
+    overflow-y: scroll;
+}
