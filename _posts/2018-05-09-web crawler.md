@@ -1,6 +1,9 @@
 ---
-layout: post
-title: A simple web crawler
+title:  "A simple web crawler"
+search: true
+categories: 
+  - web crawler
+last_modified_at: 2018-05-09T08:06:00-05:00
 ---
 
 使用Python开发简单的爬虫  
