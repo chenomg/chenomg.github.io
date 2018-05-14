@@ -3,7 +3,7 @@ main:
   #- title: "Quick-Start Guide"
     #url: /docs/_docs/quick-start-guide/
   - title: "About"
-    url: http://jase.im/about/
+    url: /about/
   #- title: "Sample Posts"
     #url: /year-archive/
   #- title: "Sample Collections"
