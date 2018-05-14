@@ -31,20 +31,21 @@ Hello, 我是来自上海的一名机械工程师
 
 3. Python主要的发展方向以及学习的主要内容(或框架)：
   * web:   
-  	> Framework:  Django， Flask  
-  * 数据科学: 
-  	* AI( Machine Learning, Deep Learning) and Data Science:  
-  		> Framework:  
-  		> Numpy, SciPy, Pandas, Matplotlib,   
-  		> SciKit-Learn, Keras/TensorFlow/Theano  
-  	* Web Crawler:  
-  		> Framework:  
-  		> Scrapy, requests, xpath  
-  * GUI or others:  
-  	> Framework: Qt, wxPython  
+	> Framework:  Django， Flask  
+  * 数据科学:  
+		1. AI( Machine Learning, Deep Learning) and Data Science:  
+		> Framework:  
+		>> Numpy, SciPy, Pandas, Matplotlib  
+		>> SciKit-Learn, Keras/TensorFlow/Theano  
+		2. Web Crawler:  
+		> Framework:  Scrapy, requests, xpath  
+		3. GUI or others:  
+		> Framework: Qt, wxPython  
 
-4. 本人对于数据科学特别是AI还是比较感兴趣，不过鉴于目前数学以及编程基础还有待提高，因此先从web方面入手  
+4. 我对于数据科学特别是AI还是比较感兴趣，不过鉴于目前数学以及编程基础还有待提高，因此打算先从web方面入手  
 
 5. 本博客作为我目前学习成长的一个记录工具吧，更新速度不一定快，不过我会尽量保证定期更新，希望能认识跟我有相同爱好的人，共同学习  
 
 ***Jase Chen*** *写于：2018-05-14 22:14:32*  
+
+> 
