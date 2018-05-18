@@ -2,7 +2,11 @@
 title:  "A simple web crawler"
 search: true
 categories: 
-  - web crawler
+  - python
+tags:
+  - Web_Crawler
+  - requests
+  - xpath
 last_modified_at: 2018-05-09T08:06:00-05:00
 ---
 
