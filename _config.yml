@@ -19,8 +19,8 @@ locale                   : "zh-CHS"
 title                    : "Jase's Blog"
 title_separator          : "-"
 name                     : "Jase Chen"
-description              : "An amazing website from Jase."
-url                      : "http://jase.im"
+description              : "A website from Jase."
+url                      : "https://jase.im"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "chenomg/chenomg.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -102,7 +102,7 @@ analytics:
 author:
   name             : "Jase Chen"
   avatar           : /assets/images/bio-photo.jpg
-  bio              : "Life is like riding a bicycle. To keep your balance, you have to move on."
+  bio              : "Web developer from Shanghai."
   location         : "Shanghai"
   email            : "xxmm@live.cn"
   uri              :
