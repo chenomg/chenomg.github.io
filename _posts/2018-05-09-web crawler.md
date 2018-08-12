@@ -2,7 +2,7 @@
 title:  "A simple web crawler"
 search: true
 categories: 
-  - python
+  - Python
 tags:
   - Web_Crawler
   - requests
