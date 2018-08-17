@@ -318,3 +318,5 @@ def iter_something():
 ```
 
 If you want to get in touch, I'm [@nvie](http://twitter.com/nvie) on Twitter.
+
+>   转载自：https://nvie.com/posts/iterators-vs-generators/
